@@ -175,9 +175,9 @@ table tr:last-child td{
     border-bottom: 4px solid var(--dark);
     padding: 20px 30px!important;
 }
-.table tr td:last-child, .table tr th:last-child{
+/* .table tr td:last-child, .table tr th:last-child{
     background-color: #D1EDDC;
-}
+} */
 .table thead tr th:last-child{
     border-radius: 10px 10px 0 0;
     color: var(--danger);
