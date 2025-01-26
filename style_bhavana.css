@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.responsive-svg-desktop {
+    width: 200px; /* or specific width, e.g., 200px */
+    height: auto;
+    max-width: 300px; /* maximum width, adjust as needed */
+}
+
+.responsive-svg-mobile {
+    width: 150px; /* or specific width, e.g., 200px */
+    height: auto;
+    max-width: 300px; /* maximum width, adjust as needed */
+}
+
+.scroll-review {
+    overflow-y: scroll;
+    height:400px;
+}
