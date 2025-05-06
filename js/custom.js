@@ -1,3 +1,8 @@
+
+// WARNING: THIS JS CODE IS INCORRECT. THIS MAKES ALL LINKS TO NOT WORK IN THE MENU
+// CHECKOUT: https://chatgpt.com/c/6819a6f7-1048-8003-9d63-0f08c0c9566d 
+
+
 // Select all nav links within the collapse menu
 document.querySelectorAll('.navbar-nav .nav-link').forEach(link => {
     link.addEventListener('click', () => {
