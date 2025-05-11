@@ -25,6 +25,7 @@
 }
 
 .btn-danger{
+    border: none;
     background-color: var(--danger)!important;
     color: var(--btn-text-color);
 }
