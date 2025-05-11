@@ -10,7 +10,7 @@
     --footer-bg: #F3F3F3;
     --menu-font-family: 'Roboto';
     --menu-font-size: 18px;
-    --hero-font-family: 'Roboto';
+    --hero-font-family: 'Playfair Display', serif;
     --hero-font-size: 4rem;
     --hero-font-size-phone: 2rem;
     --sub-heading-font-family: 'Roboto';
@@ -68,7 +68,7 @@ body{
 
 /* Hero  */
 .hero{
-    background-color: #F9F5F6;
+    background-color: #F8F8F8;
 }
 .py-120{
     padding-top: 120px;
