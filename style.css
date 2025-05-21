@@ -50,7 +50,8 @@ body{
 }
 .navbar .nav-item a.nav-link{
     font-weight: 700;
-    color: var(--danger);
+    /* color: var(--danger); */
+    color: #444;
     font-size: var(--menu-font-size);
     cursor: pointer!important;
     font-family: var(--menu-font-family);
@@ -152,7 +153,8 @@ h2.sub-heading{
     margin: 10px;
 }
 .bg-hp h4{
-    color: var(--danger);
+    /* color: var(--danger); */
+    color: #444;
 }
 
 /* How it works  */
