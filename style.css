@@ -68,16 +68,22 @@ body{
 
 /* Hero  */
 .hero{
-    background-color: #F8F8F8;
+    background-color: #FFFFFF;
 }
 .py-120{
     padding-top: 120px;
-    padding-bottom: 120px;
+    padding-bottom: 50px;
 }
 .hero h1{
     color: var(--danger);
     font-family: var(--hero-font-family);
     font-size: var(--hero-font-size);
+}
+.heroBanner {
+    background: linear-gradient(90deg,#833ab4 0%,#fd1d1d 50%,#fcb045 100%);
+    -webkit-text-fill-color: transparent;
+    -webkit-background-clip: text;
+    background-clip: text
 }
 
 /* About  */
