@@ -387,3 +387,41 @@ h2.accordion-header .accordion-button{
         font-size: 14px;
     }
 }
+
+
+.terms-scrollable {
+    max-height: 600px;
+    overflow-y: auto;
+    border: 1px solid #fff;
+    padding: 1rem;
+    background-color: #fafafa;
+    border-radius: 8px;
+}
+
+.terms-scrollable ol > li {
+    margin-bottom: 1rem;
+}
+
+.terms-scrollable ul {
+    padding-left: 1.25rem;
+    margin-top: 0.5rem;
+}
+
+/* Optional: Style the scrollbar for WebKit browsers */
+.terms-scrollable::-webkit-scrollbar {
+    width: 6px;
+}
+
+.terms-scrollable::-webkit-scrollbar-track {
+    background: #f1f1f1;
+    border-radius: 4px;
+}
+
+.terms-scrollable::-webkit-scrollbar-thumb {
+    background: #bbb;
+    border-radius: 4px;
+}
+
+.terms-scrollable::-webkit-scrollbar-thumb:hover {
+    background: #999;
+}
